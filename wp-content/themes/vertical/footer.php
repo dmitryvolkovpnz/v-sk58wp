@@ -19,7 +19,7 @@
               data-w-id="bee645df-a229-32aa-8faa-5a13c6b78b6d"
               class="basic-text color-grey-400 section-badge"
             >
-              Оставить заявку
+              Оставить заявку new
             </div>
             <div class="space-small"></div>
             <h2
